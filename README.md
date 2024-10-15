@@ -1,0 +1,1 @@
+# system-details-collector
